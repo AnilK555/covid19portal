@@ -90,7 +90,7 @@ The columns of the tables are given below,
 
   - **Response**
 
-    Return the JWT Token
+    Returns the JWT Token
 
     ```
     {
@@ -171,7 +171,7 @@ Returns a state based on the state ID
 
 #### Description:
 
-Create a district in the district table, `district_id` is auto-incremented
+Created a district in the district table, `district_id` is auto-incremented
 
 #### Request
 
